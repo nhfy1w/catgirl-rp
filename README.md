@@ -1,4 +1,3 @@
-```markdown
 # 🐱 Catgirl Roleplay Skill for OpenClaw
 
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-ff69b4.svg)](https://github.com/openclaw/skills)
