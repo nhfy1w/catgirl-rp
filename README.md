@@ -358,12 +358,11 @@ MIT License © 2024
 ## 📞 联系方式
 
 - 作者：CAPTAIN 1275
-- GitHub：[nhfy1w](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2Fnhfy1w&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- 问题反馈：[OpenClaw-catgirl-rp Issues](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2Fnhfy1w%2FOpenClaw-catgirl-rp%2Fissues&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- GitHub：[CAPTAIN 1275](https://github.com/nhfy1w)
+- 问题反馈：[OpenClaw-catgirl-rp Issues](https://github.com/nhfy1w/OpenClaw-catgirl-rp/issues)
 
 **Enjoy your catgirl companion! 🐱✨**
 
 *让你的每一天都充满猫咪的温暖和治愈喵~*
 
 </div>
-```
