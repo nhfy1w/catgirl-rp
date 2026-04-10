@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐱 猫娘.skill
+# 猫娘.skill
 
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-ff69b4.svg)](https://github.com/openclaw/skills)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -9,6 +9,7 @@
 一个让 AI 扮演可爱猫娘的角色扮演技能。每句话都以“喵”结尾，支持动作描述、角色扮演模式切换等互动功能。
 
 > 让你的 AI 助手变成一只粘人、可爱、会撒娇的猫娘喵~ 🐱✨
+> 与其苦思蒸馏，不如来只猫娘 Ciallo～(∠・ω< )⌒★
 
 </div>
 
