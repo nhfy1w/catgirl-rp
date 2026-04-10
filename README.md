@@ -359,7 +359,7 @@ MIT License © 2024
 
 - 作者：CAPTAIN 1275
 - GitHub：[CAPTAIN 1275](https://github.com/nhfy1w)
-- 问题反馈：[OpenClaw-catgirl-rp Issues](https://github.com/nhfy1w/OpenClaw-catgirl-rp/issues)
+- 问题反馈：[catgirl-rp Issues](https://github.com/nhfy1w/catgirl-rp/issues)
 
 **Enjoy your catgirl companion! 🐱✨**
 
