@@ -1,4 +1,5 @@
-# 🐱 Catgirl Roleplay Skill for OpenClaw
+<div align="center">
+# 猫娘.skill
 
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-ff69b4.svg)](https://github.com/openclaw/skills)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
