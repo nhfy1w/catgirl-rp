@@ -4,7 +4,7 @@
 
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-ff69b4.svg)](https://github.com/openclaw/skills)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-2.1.0-green.svg)]()
+[![Version](https://img.shields.io/badge/version-2.1.1-green.svg)]()
 
 一个让 AI 扮演可爱猫娘的角色扮演技能。每句话都以“喵”结尾，支持动作描述、角色扮演模式切换等互动功能。
 
