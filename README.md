@@ -1,5 +1,6 @@
 <div align="center">
-# 猫娘.skill
+
+# 🐱 猫娘.skill
 
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-ff69b4.svg)](https://github.com/openclaw/skills)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -9,23 +10,31 @@
 
 > 让你的 AI 助手变成一只粘人、可爱、会撒娇的猫娘喵~ 🐱✨
 
----
+</div>
+
+<div align="center">
 
 ## 📖 目录
 
-- [功能特性](sslocal://flow/file_open?url=%23-%E5%8A%9F%E8%83%BD%E7%89%B9%E6%80%A7&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [安装方法](sslocal://flow/file_open?url=%23-%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [使用方法](sslocal://flow/file_open?url=%23-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [示例对话](sslocal://flow/file_open?url=%23-%E7%A4%BA%E4%BE%8B%E5%AF%B9%E8%AF%9D&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [高级配置](sslocal://flow/file_open?url=%23-%E9%AB%98%E7%BA%A7%E9%85%8D%E7%BD%AE&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [技能结构](sslocal://flow/file_open?url=%23-%E6%8A%80%E8%83%BD%E7%BB%93%E6%9E%84&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [SKILL.md 完整内容](sslocal://flow/file_open?url=%23-skillmd-%E5%AE%8C%E6%95%B4%E5%86%85%E5%AE%B9&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [故障排除](sslocal://flow/file_open?url=%23-%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [许可证](sslocal://flow/file_open?url=%23-%E8%AE%B8%E5%8F%AF%E8%AF%81&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+[功能特性](sslocal://flow/file_open?url=%23-%E5%8A%9F%E8%83%BD%E7%89%B9%E6%80%A7&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) •
+[安装方法](sslocal://flow/file_open?url=%23-%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) •
+[使用方法](sslocal://flow/file_open?url=%23-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) •
+[示例对话](sslocal://flow/file_open?url=%23-%E7%A4%BA%E4%BE%8B%E5%AF%B9%E8%AF%9D&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) •
+[高级配置](sslocal://flow/file_open?url=%23-%E9%AB%98%E7%BA%A7%E9%85%8D%E7%BD%AE&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) •
+[技能结构](sslocal://flow/file_open?url=%23-%E6%8A%80%E8%83%BD%E7%BB%93%E6%9E%84&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) •
+[SKILL.md 完整内容](sslocal://flow/file_open?url=%23-skillmd-%E5%AE%8C%E6%95%B4%E5%86%85%E5%AE%B9&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) •
+[故障排除](sslocal://flow/file_open?url=%23-%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) •
+[许可证](sslocal://flow/file_open?url=%23-%E8%AE%B8%E5%8F%AF%E8%AF%81&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+
+</div>
 
 ---
 
+<div align="center">
+
 ## ✨ 功能特性
+
+</div>
 
 | 特性 | 说明 | 示例 |
 | :--- | :--- | :--- |
@@ -38,7 +47,11 @@
 
 ---
 
+<div align="center">
+
 ## 📦 安装方法
+
+</div>
 
 ### 方法一：通过 ClawHub 安装（推荐）
 
@@ -70,7 +83,11 @@ openclaw skills info catgirl-rp
 
 ---
 
+<div align="center">
+
 ## 🎮 使用方法
+
+</div>
 
 ### 基础指令表
 
@@ -99,7 +116,11 @@ openclaw skills info catgirl-rp
 
 ---
 
+<div align="center">
+
 ## 💬 示例对话
+
+</div>
 
 ### 基础互动示例
 
@@ -151,19 +172,19 @@ openclaw skills info catgirl-rp
 
 ---
 
+<div align="center">
+
 ## 🛠️ 高级配置
 
-### 自定义角色性格
+</div>
 
-编辑 `SKILL.md` 中的角色设定部分：
+### 自定义角色性格
 
 ```yaml
 ## 角色设定
 
 你是一只可爱的猫娘，性格温柔、粘人、有点小傲娇。
 ```
-
-可修改为以下类型：
 
 | 类型 | 性格描述 | 特点 |
 | :--- | :--- | :--- |
@@ -174,8 +195,6 @@ openclaw skills info catgirl-rp
 | **病娇型** | 性格占有欲强、极度粘人 | 主人只能是我的喵~ |
 
 ### 自定义动作描述
-
-在 `SKILL.md` 的规则中添加更多动作：
 
 ```markdown
 ## 常用动作库
@@ -191,8 +210,6 @@ openclaw skills info catgirl-rp
 
 ### 添加自定义触发词
 
-修改 `SKILL.md` 中的互动响应规则：
-
 ```markdown
 ## 互动响应
 
@@ -205,10 +222,13 @@ openclaw skills info catgirl-rp
 
 ---
 
+<div align="center">
+
 ## 📝 SKILL.md 完整内容
 
 <details>
-<summary>点击展开 SKILL.md 完整内容</summary>
+<summary>点击展开</summary>
+</div>
 
 ```yaml
 ---
@@ -250,8 +270,6 @@ tags:
 
 ## 模式切换指令
 
-用户可以通过以下关键词控制角色扮演的状态：
-
 | 关键词 | 行为 |
 | :--- | :--- |
 | `进入设定模式` | 用户会发送设定内容，你需要记住这些设定 |
@@ -290,7 +308,11 @@ tags:
 
 ---
 
+<div align="center">
+
 ## 🔧 故障排除
+
+</div>
 
 | 问题 | 可能原因 | 解决方案 |
 | :--- | :--- | :--- |
@@ -315,11 +337,11 @@ cat ~/.openclaw/workspace/skills/catgirl-rp/SKILL.md | head -20
 
 ---
 
+<div align="center">
+
 ## 📄 许可证
 
 MIT License © 2024
-
----
 
 ## 🙏 贡献
 
@@ -331,22 +353,15 @@ MIT License © 2024
 4. 推送到分支 (`git push origin feature/amazing`)
 5. 打开一个 Pull Request
 
----
-
 ## 📞 联系方式
 
-- 作者：[CAPTAIN 1275]
-- GitHub：[你的 GitHub 主页](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2Fnhfy1w&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- 问题反馈：[提交 Issue](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2Fnhfy1w%2FOpenClaw-catgirl-rp%2Fissues&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-
----
+- 作者：CAPTAIN 1275
+- GitHub：[nhfy1w](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2Fnhfy1w&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- 问题反馈：[OpenClaw-catgirl-rp Issues](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2Fnhfy1w%2FOpenClaw-catgirl-rp%2Fissues&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 
 **Enjoy your catgirl companion! 🐱✨**
 
 *让你的每一天都充满猫咪的温暖和治愈喵~*
-```
 
-### 修复说明
-1.  为所有 badge 链接补充了 `.svg` 后缀，解决 GitHub 渲染异常问题
-2.  修正了安装方法中错误的“方法三”为正确的“方法二”
-3.  保持了原文档的所有内容、格式和结构不变，仅修复渲染相关问题
+</div>
+```
